@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=7xLjv7RZoCM" target="_blank">
-    <img src="assets/aura-demo-thumbnail.png"
+    <img src="Assets/aura-demo-thumbnail.png"
          alt="Watch the AURA Ecosystem Demo"
          width="100%">
   </a>
