@@ -14,6 +14,23 @@
 
 ---
 
+## 🎬 Official Demonstration
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=7xLjv7RZoCM" target="_blank">
+    <img src="assets/aura-demo-thumbnail.png"
+         alt="Watch the AURA Ecosystem Demo"
+         width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>▶ Click the image above to watch the official AURA Ecosystem demonstration</strong>
+</p>
+
+
+---
+
 # Vision
 
 Traditional real estate platforms primarily function as listing portals, offering property advertisements with limited analytical value. They rarely explain **why** a property should be purchased, **how** market conditions influence valuation, or **which** hidden risks may affect an investment.
