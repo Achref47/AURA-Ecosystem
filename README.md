@@ -403,7 +403,6 @@ The implementation source code for the individual products is maintained separat
 
 # Citation
 
-If you use or reference this work, please cite the Software Engineering Capstone:
 
 > **Achref Elarbi.** *Adaptive Unified Real Estate Intelligence Engine (AURA): AI-Driven Real Estate Intelligence Infrastructure for Valuation and Decision-Making.* Mediterranean Institute of Technology (MedTech), 2025–2026. 
 
