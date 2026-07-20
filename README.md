@@ -17,14 +17,16 @@
 ## 🎬 Official Demonstration
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=7xLjv7RZoCM">
-    <img
-      src="https://raw.githubusercontent.com/Achref47/AURA-Ecosystem/main/assets/aura-demo-thumbnail.png"
-      width="100%"
-      alt="Watch the AURA Ecosystem Demo">
+  <a href="https://www.youtube.com/watch?v=7xLjv7RZoCM" target="_blank">
+    <img src="assets/aura-demo-thumbnail.png"
+         alt="Watch the AURA Ecosystem Demo"
+         width="100%">
   </a>
 </p>
 
+<p align="center">
+  <strong>▶ Click the image above to watch the official AURA Ecosystem demonstration</strong>
+</p>
 
 ---
 
