@@ -25,6 +25,7 @@
 </p>
 
 <p align="center">
+  
   <strong>▶ Click the image above to watch the official AURA Ecosystem demonstration</strong>
 </p>
 
